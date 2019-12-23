@@ -13,8 +13,7 @@
   duration: Mar. 2019 - Jun. 2019
   # url: "#"
   summarys:
-    - summary: Term Project in Data Science (COSE471-2019S)(Python)<ul class="resume-item-list"><li>By analyzing purchase data in a certain gender and age range, proposing a new algorithm that recommends products when new
-consumers enter the range.</li><ul class="resume-item-list"><li>My part is product recommendation system</li>
+    - summary: Term Project in Data Science (COSE471-2019S)(Python)<ul class="resume-item-list"><li>By analyzing purchase data in a certain gender and age range, proposing a new algorithm that recommends products when new consumers enter the range.</li><ul class="resume-item-list"><li>My part is product recommendation system</li>
 
 
 # DeepLearning Project
@@ -22,8 +21,7 @@ consumers enter the range.</li><ul class="resume-item-list"><li>My part is produ
   duration: Sept. 2019 - Dec. 2019
   # url: "#"
   summarys:
-    - summary: Term Project in Deep Learning (COSE474-2019F)(Python with Pytorch)<ul class="resume-item-list"><li>Aim to create attack using projected gradient descent (PGD)-resistent classier through exposing classier to adversary
-examples during train-time.</li>
+    - summary: Term Project in Deep Learning (COSE474-2019F)(Python with Pytorch)<ul class="resume-item-list"><li>Aim to create attack using projected gradient descent (PGD)-resistent classier through exposing classier to adversary examples during train-time.</li>
     
     
 # Machine Learning Project
