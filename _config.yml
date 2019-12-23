@@ -1,6 +1,6 @@
 # Site settings
-title: "Jekyll Resume Template"
-description: "A resume template for Jekyll and GitHub Pages sites."
+title: "Shinhwan Kang's Resume Page"
+description: "I'm making on my resume gradually...!"
 
 # Build settings
 markdown: kramdown
@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "false"
 resume_name:                    "Shinhwan Kang"
-resume_title:                   "Summary(fixing after)"
+resume_title:                   "Ideal"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "ksh981214@korea.ac.kr"
@@ -20,10 +20,10 @@ resume_contact_email:           "ksh981214@korea.ac.kr"
 resume_contact_telephone:       "0"
 resume_contact_address:         "0"
 
-resume_header_contact_info:     "Seoul, South KOrea • ksh981214@korea.ac.kr"
+resume_header_contact_info:     "Seoul, South Korea • ksh981214@korea.ac.kr"
 display_header_contact_info:    "True"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p>I haven't decided my specialty yet. However, I am expanding our knowledge in many areas and currently interested in research is Natural Language Processing(NLP) and Reinforcement Learning(RL). and </p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
