@@ -13,7 +13,7 @@
   duration: Mar. 2019 - Jun. 2019
   # url: "#"
   summarys:
-    - summary: Term Project in Data Science (COSE471-2019S)(Python)<ul class="resume-item-list"><li>By analyzing purchase data in a certain gender and age range, proposing a new algorithm that recommends products when new consumers enter the range.</li><ul class="resume-item-list"><li>My part is product recommendation system</li>
+    - summary: Term Project in Data Science (COSE471-2019S)(Python)<ul class="resume-item-list"><li>By analyzing purchase data in a certain gender and age range, proposing a new algorithm that recommends products when new consumers enter the range.</li><li>My part is product recommendation system</li>
 
 
 # DeepLearning Project
@@ -29,4 +29,4 @@
   duration: Sept. 2019 - Dec. 2019
   # url: "#"
   summarys:
-    - summary: Term Project in Machine Learning (COSE362-2019F)(Python with gpu-Tensorow)<ul class="resume-item-list"><li> Aim to beat the AI (normal mode) by implementing Deep Q-Network, A2C, Curriculum learning etc.</li><ul class="resume-item-list"><li>My part is DQN implementation and experiments with DQN.</li>
+    - summary: Term Project in Machine Learning (COSE362-2019F)(Python with gpu-Tensorow)<ul class="resume-item-list"><li> Aim to beat the AI (normal mode) by implementing Deep Q-Network, A2C, Curriculum learning etc.</li><li>My part is DQN implementation and experiments with DQN.</li>
