@@ -1,16 +1,34 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  duration: 2012 &mdash; Present
+# AI project
+- project: Making AI for playing Connect Four
+  duration: Mar. 2019 - Jun. 2019
   # url: "#"
   summarys: 
-    - summary: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+    - summary:  Term Project in Articial Intelligence (COSE361-2019S)(C)
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  duration: 2007 &mdash; Present
+# Data Science Project
+- project: Voice data analysis using Deep Neural Networks and product recommendation system using age, gender information
+  duration: Mar. 2019 - Jun. 2019
   # url: "#"
   summarys:
-    - summary: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+    - summary: Term Project in Data Science (COSE471-2019S)(Python)<ul class="resume-item-list"><li>By analyzing purchase data in a certain gender and age range, proposing a new algorithm that recommends products when new
+consumers enter the range.</li><ul class="resume-item-list"><li>My part is product recommendation system</li>
+
+
+# DeepLearning Project
+- project: Vaccination via prehand exposure to adversary examples
+  duration: Sept. 2019 - Dec. 2019
+  # url: "#"
+  summarys:
+    - summary: Term Project in Deep Learning (COSE474-2019F)(Python with Pytorch)<ul class="resume-item-list"><li>Aim to create attack using projected gradient descent (PGD)-resistent classier through exposing classier to adversary
+examples during train-time.</li>
+    
+    
+# Machine Learning Project
+- project: Playing Street Fighter II with Deep Reinforcement Learning
+  duration: Sept. 2019 - Dec. 2019
+  # url: "#"
+  summarys:
+    - summary: Term Project in Machine Learning (COSE362-2019F)(Python with gpu-Tensorow)<ul class="resume-item-list"><li> Aim to beat the AI (normal mode) by implementing Deep Q-Network, A2C, Curriculum learning etc.</li><ul class="resume-item-list"><li>My part is DQN implementation and experiments with DQN.</li>
