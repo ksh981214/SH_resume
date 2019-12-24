@@ -102,8 +102,6 @@
       <!-- end Experience -->
       {% endif %}
 
-
-
       {% if site.resume_section_projects %}
       <!-- begin Projects -->
       <section class="content-section">
@@ -128,6 +126,32 @@
 
       </section>
       <!-- end Projects -->
+      {% endif %}
+
+      {% if site.resume_section_extracurricular %}
+      <!-- begin Extracurricular -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Extra Curricular Activites</h2>
+        </header>
+
+        {% for extracurricular in site.data.extracurricular %}
+        <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+          <h3 class="resume-item-title" itemprop="name">{{ extracurricular.position }}</h3>
+          <h4 class="resume-item-details" itemprop="description">{{ extracurricular.company }}</h4>
+          <h4 class="resume-item-details" itemprop="description">{{ extracurricular.duration }}</h4>
+          <p class="resume-item-copy" itemprop="description">
+            <ul class="resume-item-list">
+              {% for summary in extracurricular.summarys %}
+              <li>{{ summary.summary }}</li>
+              {% endfor %}
+            </ul></h5>
+        </div><!-- end of resume-item -->
+        {% endfor %}
+
+      </section>
+      <!-- end extracurricular -->
       {% endif %}
 
       {% if site.resume_section_skills %}
