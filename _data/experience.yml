@@ -1,16 +1,16 @@
 # Jobs
-# Microsoft Student Partner Developer
-- position: Microsoft Student Partner Developer
-  company: Microsoft
-  duration:   Jul. 2017 &mdash; Aug. 2018, Seoul, Republic of Korea
-  summarys: 
-    - summary: Announcing Microsoft''s Azure Service through presentation <ul class="resume-item-list"><li>Recommendation System with Azure Machine Learning (Nov. 2017, Dec. 2017)</li><li>Continuous distribution of Web App Using GitHub (Jun. 2018)</li><li>Azure Functions & Cognitive API (Jul. 2018)</li></ul>  
-    - summary: Attending the Asia-Pacic Microsoft Students Partners Summit (APAC MSP Summit) at National University of Singapore (NUS) in Singapore on 2018.05.18-20.
-
 # APP developer
+
+# Undergraduate Researcher
+- position: DMIS(Data Mining & Information System) Laboratory, Korea University
+  company: Undergraduate Researcher (Advisor - Jaewoo Kang) 
+  duration:   Mar. 2018 -, Seoul, Republic of Korea
+  summarys: 
+    - summary:  Participated in many studies for machine learning (deep learning)
+
 - position: Application Developer
   company: POG
-  duration:   May. 2019 &mdash; Aug. 2018, Seoul, Republic of Korea
+  duration:   May. 2019 &mdash; Aug. 2019, Seoul, Republic of Korea
   summarys: 
     - summary: Developed minimum viable product for Android application service.
     
@@ -21,9 +21,3 @@
   summarys: 
     - summary: Participated in projects for collecting and processing brain signal data<ul class="resume-item-list"><li>Real-time intelligent emotional technology based on multi-modal brain signal</li>
 
-# Undergraduate Researcher
-- position: DMIS(Data Mining & Information System) Laboratory, Korea University
-  company: Undergraduate Researcher (Advisor - Jaewoo Kang) 
-  duration:   Mar. 2018 -, Seoul, Republic of Korea
-  summarys: 
-    - summary:  Participated in many studies for machine learning (deep learning)
