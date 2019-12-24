@@ -1,5 +1,5 @@
 # Site settings
-title: "Shinhwan Kang's Resume Page"
+title: "Shinhwan Kang's Curricular Vitae"
 description: "I'm making on my resume gradually...!"
 
 # Build settings
@@ -36,7 +36,8 @@ resume_looking_for_work:        "yes"
 resume_section_experience:      true
 resume_section_education:       true
 resume_section_projects:        true
-resume_section_skills:          true
+resume_section_skills:          false
+resume_section_extracurricular: true
 resume_section_recognition:     true
 resume_section_links:           false
 resume_section_associations:    false
