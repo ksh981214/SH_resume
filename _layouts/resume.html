@@ -223,16 +223,22 @@
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Outside Interests</h2>
+          <h2>Interestes & Activities</h2>
         </header>
-
+        
+        {% for interest in site.data.interests %}
         <div class="resume-item">
-          <ul class="resume-item-list">
-            {% for interest in site.data.interests %}
-            <li>{{ interest.description }}</li>
-            {% endfor %}
-          </ul>
+          <h3 class="resume-item-title" itemprop="name">{{ interest.keyword }}</h3>
+          <!--h4 class="resume-item-details" itemprop="description">{{ interest.company }}</h4-->
+          <h4 class="resume-item-details" itemprop="description">{{ interest.duration }}</h4>
+          <p class="resume-item-copy" itemprop="description">
+            <ul class="resume-item-list">
+              {% for summary in interest.summarys %}
+              <li>{{ summary.summary }}</li>
+              {% endfor %}
+            </ul></h5>
         </div>
+        {% endfor %}
 
       </section>
       <!-- end Interests -->
