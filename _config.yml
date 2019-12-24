@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "false"
 resume_name:                    "Shinhwan Kang"
-resume_title:                   "Ideal"
+resume_title:                   "My Ideal"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "ksh981214@korea.ac.kr"
