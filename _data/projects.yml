@@ -17,28 +17,28 @@
 
 # Machine Learning Project
 - project: Playing Street Fighter II with Deep Reinforcement Learning
-  duration: Sept, 2019 - Dec, 2019
+  duration: Sept. 2019 - Dec. 2019
   # url: "#"
   summarys:
     - summary: Term Project in Machine Learning (COSE362-2019F)(Python with gpu-Tensorow)<ul class="resume-item-list"><li> Aim to beat the Street Fighter AI (normal mode) by implementing Deep Q-Network, A2C, Curriculum learning etc.</li><li>My part is DQN implementation and experiments with DQN.</li>
 
 # DeepLearning Project
 - project: Vaccination via prehand exposure to adversary examples
-  duration: Sept, 2019 - Dec, 2019
+  duration: Sept. 2019 - Dec. 2019
   # url: "#"
   summarys:
     - summary: Term Project in Deep Learning (COSE474-2019F)(Python with Pytorch)<ul class="resume-item-list"><li>Aim to create robust image by adversarial training using gradient-based approach(PGD, FGSM) and network-based approach(P-ATN, AAE-ATN, adv-GAN)</li>
     
 # Data Science Project
 - project: Voice data analysis using Deep Neural Networks and product recommendation system using age, gender information
-  duration: Mar, 2019 - Jun, 2019
+  duration: Mar. 2019 - Jun. 2019
   # url: "#"
   summarys:
     - summary: Term Project in Data Science (COSE471-2019S)(Python)<ul class="resume-item-list"><li>By analyzing purchase data in a certain gender and age range, proposing a new algorithm that recommends products when new consumers enter the range.</li><li>My part is product recommendation system</li>
 
 # AI project
 - project: Making AI for playing Connect Four
-  duration: Mar, 2019 - Jun, 2019
+  duration: Mar. 2019 - Jun. 2019
   # url: "#"
   summarys: 
     - summary: Term Project in Articial Intelligence (COSE361-2019S)(C)
