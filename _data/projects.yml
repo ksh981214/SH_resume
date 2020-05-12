@@ -20,7 +20,7 @@
   duration: Sept. 2019 - Dec. 2019
   # url: "#"
   summarys:
-    - summary: Term Project in Machine Learning (COSE362-2019F)(Python with gpu-Tensorow)<ul class="resume-item-list"><li> Aim to beat the Street Fighter AI (normal mode) by implementing Deep Q-Network, A2C, Curriculum learning etc.</li><li>My part is DQN implementation and experiments with DQN.</li>
+    - summary: Term Project in Machine Learning (COSE362-2019F)(Python with gpu-Tensorow)<ul class="resume-item-list"><li> Aim to beat the Street Fighter AI (normal mode) by implementing Deep Q-Network, A2C, Curriculum learning etc.</li><li>My part is DQN implementation and experiments with DQN.</li><li>https://github.com/ksh981214/DQN</li>
 
 # DeepLearning Project
 - project: Vaccination via prehand exposure to adversary examples
