@@ -30,11 +30,11 @@
     - summary: Term Project in Deep Learning (COSE474-2019F)(Python with Pytorch)<ul class="resume-item-list"><li>Aim to create robust image by adversarial training using gradient-based approach(PGD, FGSM) and network-based approach(P-ATN, AAE-ATN, adv-GAN)</li>
     
 # Data Science Project
-#- project: Voice data analysis using Deep Neural Networks and product recommendation system using age, gender information
-#  duration: Mar. 2019 - Jun. 2019
+#- # project: Voice data analysis using Deep Neural Networks and product recommendation system using age, gender information
+#  # duration: Mar. 2019 - Jun. 2019
 #  # url: "#"
-#  summarys:
-#    - summary: Term Project in Data Science (COSE471-2019S)(Python)<ul class="resume-item-list"><li>By analyzing purchase data in a certain gender and age range, proposing a new algorithm that recommends products when new consumers enter the range.</li><li>My part is product recommendation system</li>
+#  # summarys:
+#    # - summary: Term Project in Data Science (COSE471-2019S)(Python)<ul class="resume-item-list"><li>By analyzing purchase data in a certain gender and age range, proposing a new algorithm that recommends products when new consumers enter the range.</li><li>My part is product recommendation system</li>
 
 # AI project
 - project: Making AI for playing Connect Four
