@@ -6,14 +6,14 @@
   duration: Mar. 2020 - Jun. 2020
   # url: "#"
   summarys:
-    - summary: Term Project in Project for Graduation(COSE487(00)-2020S)(Python with Pytorch, RDKit)<ul class="resume-item-list"><li>Lead Optimization</li><li>[presentation](https://www.youtube.com/watch?v=Y75Nnbmxlqc&t=422s)</li>
+    - summary: Term Project in Project for Graduation(COSE487(00)-2020S)(Python with Pytorch, RDKit)<ul class="resume-item-list"><li>Lead Optimization</li><li>https://www.youtube.com/watch?v=Y75Nnbmxlqc&t=422s</li>
 
 # Natural Language Processing Project
-- project: Emotion Recognition(currently in progress)
-  duration: Mar. 2020 - 
+- project: Emotion Recognition
+  duration: Mar. 2020 - Jun. 2020
   # url: "#"
   summarys:
-    - summary: Term Project in Natural Language Processing(NLP)(COSE461(01)-2020S)()<ul class="resume-item-list"><li>(Update the details later)</li>
+    - summary: Term Project in Natural Language Processing(NLP)(COSE461(01)-2020S)()<ul class="resume-item-list"><li>Emotion Recognition with BERT/KoBERT</li><li>Dataset: Drama "Friends" dastaset/NSMC(Naver Movie Review's rating)</li><li>My part is KoBERT part.</li>
 
 # Machine Learning Project
 - project: Playing Street Fighter II with Deep Reinforcement Learning
