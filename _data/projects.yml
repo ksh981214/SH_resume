@@ -2,11 +2,11 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # Project for Graduation
-- project: Project for Graduation(currently in progress)
-  duration: Mar. 2020 - 
+- project: Project for Graduation
+  duration: Mar. 2020 - Jun. 2020
   # url: "#"
   summarys:
-    - summary: Term Project in Project for Graduation(COSE487(00)-2020S)(Python with Pytorch, RDKit)<ul class="resume-item-list"><li>Lead Optimization(Update the details later)</li>
+    - summary: Term Project in Project for Graduation(COSE487(00)-2020S)(Python with Pytorch, RDKit)<ul class="resume-item-list"><li>Lead Optimization</li><li>[presentation](https://www.youtube.com/watch?v=Y75Nnbmxlqc&t=422s)</li>
 
 # Natural Language Processing Project
 - project: Emotion Recognition(currently in progress)
