@@ -1,11 +1,11 @@
 # Recognitions
-- award: SKT & SKB (T&B) code challenge
-  organization: SKT oksusu
-  year: Aug. 2018
+- award: Project for Graduation Competition
+  organization: Korea Univ. Computer Science and Engineering
+  year: Jun. 2020
   summarys: 
-    - summary: Encouragement Prize
-    - summary: Participating as auxiliary member
-    - summary: Collecting and Preprocessing the historical data of oksusu/B tv content viewed.
+    - summary: 1st place
+    - summary: Lead Optimization
+    - summary: http://cs.korea.ac.kr/cs/board/notice_under.do?mode=view&articleNo=157136
     
 - award: AI Dataset Challenge
   organization: SELECT STAR
@@ -13,3 +13,12 @@
   summarys: 
     - summary: 3rd place
     - summary: Propose business ideas that can be realized with new datasets that do not currently exist.
+
+- award: SKT & SKB (T&B) code challenge
+  organization: SKT oksusu
+  year: Aug. 2018
+  summarys: 
+    - summary: Encouragement Prize
+    - summary: Participating as auxiliary member
+    - summary: Collecting and Preprocessing the historical data of oksusu/B tv content viewed.
+   
