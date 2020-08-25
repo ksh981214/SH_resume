@@ -23,7 +23,7 @@ resume_contact_address:         "0"
 resume_header_contact_info:     "Seoul, South Korea • ksh981214@korea.ac.kr"
 display_header_contact_info:    "True"
 
-resume_header_intro: "<p>I am expanding my knowledge in many areas and interested in research Natural Language Processing(NLP) & technique with Graph(graph generation, graph mining etc..).</p>"
+resume_header_intro: "<p>I am expanding my knowledge in many areas(few-shot learning, GNN etc..) and now researching in graph algorithm(Summarization, Recommendation etc..)!</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
