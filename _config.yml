@@ -14,16 +14,16 @@ resume_name:                    "Shinhwan Kang"
 resume_title:                   "My Ideal"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "ksh981214@korea.ac.kr"
+resume_contact_email:           "shinhwan.kang@kaist.ac.kr"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "0"
 resume_contact_address:         "0"
 
-resume_header_contact_info:     "Seoul, South Korea • ksh981214@korea.ac.kr"
+resume_header_contact_info:     "Seoul, South Korea • shinhwan.kang@kaist.ac.kr"
 display_header_contact_info:    "True"
 
-resume_header_intro: "<p>I am expanding my knowledge in many areas(few-shot learning, GNN etc..) and now researching in graph algorithm(Summarization, Recommendation etc..)!</p>"
+resume_header_intro: "<p>I am a person who dreams of a better tomorrow!</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
